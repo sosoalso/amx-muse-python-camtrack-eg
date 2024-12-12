@@ -1,0 +1,10 @@
+{
+  "id": "camtrack-eg",
+  "name": "camtrack-eg",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}
